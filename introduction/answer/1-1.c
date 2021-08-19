@@ -7,11 +7,11 @@
 
 int main()
 {
-    printf("hello, ");
-    printf("world");
-    printf("\n");
+  printf("hello, ");
+  printf("world");
+  printf("\n");
 
-    return 0;
+  return 0;
 }
 
 // answer: 上記のコードの一部を省いてエラーを確認する
